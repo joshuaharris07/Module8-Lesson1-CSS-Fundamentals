@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    background-color: beige;
+    color: #333;
+}
+
+footer {
+    background-color: azure;
+}
+
+h1, h2 {
+    color: rgb(0, 132, 255);
+}
+
+button {
+    font-size: 20px;
+}
+
+button:hover, a:hover {
+    color:white;
+    background-color: black;
+}
+
+section ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.steps {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#picture {
+    border: 1px solid black;
+}
+
+#recipe {
+    border: 3px solid black;
+    padding: 20px;
+    padding-top: 5px;
+    margin: 20px;
+}
+
